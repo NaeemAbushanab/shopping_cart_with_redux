@@ -13,3 +13,5 @@ This project use Redux core approach
 
 - npm install
 - npm run dev
+
+`liveView` : [https://shopping-cart-zg8h.onrender.com](https://shopping-cart-zg8h.onrender.com)
